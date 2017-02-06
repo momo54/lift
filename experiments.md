@@ -63,7 +63,7 @@ In the next Table, we view deduced BGPs and recall/precision of joins, per query
 **Note B**: With (tpi'_j) we annotate the "jth" false postive for the triple pattern "i" of the original query.
 
 
-## LIFT results for queries with cycles
+## LIFT results for (?s p ?o) queries 
 
 Next Table, shows a query with cycles and the BGP that LIFT deduces.
 
